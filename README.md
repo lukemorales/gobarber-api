@@ -39,7 +39,9 @@
 This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
 
 -  [Node.js][nodejs]
--  [Express][nodejs]
+-  [Express](https://expressjs.com/)
+-  [nodemon](https://nodemon.io/)
+-  [Sucrase](https://github.com/alangpierce/sucrase)
 -  [Docker](https://www.docker.com/docker-community)
 -  [Sequelize](http://docs.sequelizejs.com/)
 -  [PostgreSQL](https://www.postgresql.org/)
