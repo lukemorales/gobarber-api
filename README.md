@@ -13,7 +13,7 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lukemorales/gobarber-api.svg">
   
   <a href="https://www.codacy.com/app/lukemorales/gobarber-api?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=lukemorales/gobarber-api&amp;utm_campaign=Badge_Grade">
-    <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/4f87fc059ec846118f2ef2950200b13a.svg">
+    <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/70c8e79c83b442278f6c276ebf117ae4.svg">
   </a>
   
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/lukemorales/gobarber-api.svg">
