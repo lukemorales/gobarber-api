@@ -1,7 +1,6 @@
 import { Op } from 'sequelize';
 import { startOfDay, endOfDay, parseISO } from 'date-fns';
 import User from '../models/User';
-import File from '../models/File';
 import Appointment from '../models/Appointment';
 
 class ScheduleController {
@@ -28,6 +27,13 @@ class ScheduleController {
           [Op.between]: [startOfDay(parsedDate), endOfDay(parsedDate)],
         },
       },
+      include: [
+        {
+          model: User,
+          as: 'user',
+          attributes: ['name'],
+        },
+      ],
       order: ['date'],
     });
 
