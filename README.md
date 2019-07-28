@@ -25,13 +25,12 @@
     <img alt="Repository issues" src="https://img.shields.io/github/issues/lukemorales/gobarber-api.svg">
   </a>
   
-  <img alt="GitHub" src="https://img.shields.io/github/license/lukemorales/gobarber-api.svg"> 
-  
+  <img alt="GitHub" src="https://img.shields.io/github/license/lukemorales/gobarber-api.svg">   
 </p>
 
 <p align="center">
-  <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#license">License</a>
+  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
 </p>
 
 ## :rocket: Technologies
